@@ -2,9 +2,9 @@
 
 WaaSAssessment is a PowerShell module.
 
-Gets WaaS Assessment Platform information.
+Gets [WaaS Assessment Platform](https://learn.microsoft.com/en-us/windows/win32/sysinfo/about-update-assessor-service)  information.
 
-The [WaaS Assessment Platform](https://learn.microsoft.com/en-us/windows/win32/sysinfo/about-update-assessor-service) provide the following information:
+The WaaS Assessment Platform provide the following information:
 
 - If a device is on the latest Microsoft updates.
 - Whether the device has reached end of support.
