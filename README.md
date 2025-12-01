@@ -31,6 +31,12 @@ PS> Install-Module -Name WaaSAssessment
 Get-OSUpdateAssessment
 ```
 
+## Available Functions in the Module
+
+| Function name            | Description                                                                          |
+|:-------------------------|:-------------------------------------------------------------------------------------|
+| Get-OSUpdateAssessment |  Gets WaaS Assessment Platform information.|
+
 ## License
 
 This module is released under the terms of the GNU General Public License (GPL), Version 2.
