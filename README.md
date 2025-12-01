@@ -1,6 +1,6 @@
 # About the WaaS Assessment Platform
 
-The WaaS Assessment module provide the following information:
+The WaaSAssessment module provide the following information:
 
 - If a device is on the latest Microsoft updates.
 - Whether the device has reached end of support.
